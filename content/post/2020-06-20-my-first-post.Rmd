@@ -1,0 +1,16 @@
+---
+title: My first post
+author: Bastian Auer
+date: '2020-06-20'
+slug: my-first-post
+categories: []
+tags: []
+---
+
+some text
+
+```{r echo TRUE}
+x <- rnorm(100)
+plot(x)
+```
+
